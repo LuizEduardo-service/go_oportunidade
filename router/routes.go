@@ -1,9 +1,7 @@
 package router
-package handler
 
 import (
-	"net/http"
-
+	"github.com/LuizEduardo-service/go_oportunidade/handler"
 	"github.com/gin-gonic/gin"
 )
 
